@@ -19,6 +19,10 @@
 - 项目D
 
 
+## 赞助
+![GitHub账户信息统计](https://ajiho.github.io/assets/img/ali_pay.png)
+![GitHub账户信息统计](https://ajiho.github.io/assets/img/wechat_pay.png)
+
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=Geeklu&show_icons=true&theme=tokyonight)
 
 
